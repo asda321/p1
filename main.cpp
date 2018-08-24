@@ -5,6 +5,8 @@
 // Convert a temperature from celsius to fahrenheit.
 //
 #include <iostream>
+
+using namespace std;
 int main() {
 	// Prompt user for celsius temperature.
 	cout << "Please enter a temperature in celsius: " << flush;
